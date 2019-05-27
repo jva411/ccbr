@@ -1,0 +1,9 @@
+name: Tempo
+version: 1.0
+main: tempo.Tempo
+author: JVAgamer_
+api-version: 1.13
+
+commands:
+    tempo:
+        description: Olhar tempo online!

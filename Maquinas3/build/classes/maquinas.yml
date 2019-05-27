@@ -1,0 +1,25 @@
+Combustiveis:
+  carvao:
+    Item: '318 1 name:carvao'
+    Time: 60
+    Multiplier: 1.0
+  carvao2:
+    Item: '318 1 name:carvao2'
+    Time: 120
+    Multiplier: 1.0
+Maquinas:
+  teste:
+    Bloco: '1 1 name:teste'
+    Combustiveis: 
+    - 'carvao'
+    - 'carvao2'
+    Drop: coco
+    Multiplier: 1.0
+    DisplayName: '&fMaquina Teste'
+    Upgrades:
+    - '2000'
+    - '3000'
+    - '4000'
+    - '5000'
+Drops:
+  coco: '351-3 1 name:drop_Nai'

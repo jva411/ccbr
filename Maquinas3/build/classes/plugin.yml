@@ -1,0 +1,8 @@
+name: Maquinas
+autor: CrazzyCraftBR
+version: 3.0
+main: maquinas3.Maquinas3
+    
+commands: 
+    maquinas:
+        description: Maquinas!

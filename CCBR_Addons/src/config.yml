@@ -1,0 +1,3 @@
+RandomTeleport:
+  raio: 3000
+  cooldown: 14400

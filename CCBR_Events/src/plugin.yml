@@ -1,0 +1,9 @@
+name: CCBR_Events
+author: JVAgamer_
+main: me.jva.ccbr_events.CCBR_Events
+version: 1.0
+api-version: 1.13
+
+commands:
+    event:
+        description: events!

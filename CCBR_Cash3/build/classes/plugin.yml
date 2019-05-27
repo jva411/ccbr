@@ -1,0 +1,12 @@
+name: CCBR_Cash
+author: JVAgamer_
+version: 2.0
+main: ccbr_cash3.Main
+
+commands:
+    cash:
+        description: cash!
+    shop:
+        description: shop!
+    keyc:
+        description: keyc!

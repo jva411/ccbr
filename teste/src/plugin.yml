@@ -1,0 +1,10 @@
+name: Teste
+autor: CrazzyCraftBR
+version: 1.0
+main: teste.Main
+    
+commands:
+    ccbr:
+        descprition: ccbr ADDONS!
+    vender:
+        descrpition: vender!

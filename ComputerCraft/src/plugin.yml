@@ -1,0 +1,12 @@
+name: ComputerCraft
+version: 1.0
+main: me.jvagamer.cpu.ComputerCraft
+author: JVAgamer_
+api-version: 1.13
+softdepend: [MyHouse]
+loadbefore: [MyHouse]
+
+commands:
+    computercraft:
+        aliases: [cpu]
+        description: ComputerCraft!

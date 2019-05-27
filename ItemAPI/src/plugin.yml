@@ -1,0 +1,14 @@
+name: ItemRenamer
+author: JVAgamer_
+version: 1.0
+main: itemapi.Main
+api-version: 1.13
+
+commands:
+    rename:
+        description: rename!
+    lore:
+        description: lore!
+    itemapi:
+        aliases: [iapi]
+        description: itemApi!

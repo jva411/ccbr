@@ -1,0 +1,14 @@
+Metas:
+  Cash:
+    on: true
+	Niveis:
+      1:
+	    Meta: 500
+  	    Items_Para_Todos: {}
+	    Comandos_Para_Todos:
+	    - 'randombox basic %p% 1'
+	    Items_Para_Quem_Completou:
+	    - '264 64'
+	    Comandos_Para_Quem_Completou:
+  	    - 'ranbombox basic %p% 2'
+	    - 'ranbombox advanced %p% 1'

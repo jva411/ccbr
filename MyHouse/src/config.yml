@@ -1,0 +1,12 @@
+Lang: pt_BR
+Material_De_Protecao: GOLDEN_SHOVEL
+Max_Terrenos: 25
+Custo_Por_Bloco_1: 100
+Custo_Por_Bloco_2: 250
+Custo_Para_Renomear: 10000
+Delete_Rembolso: false
+Default_Flags: NO_PVP,SAFE_INTERACT,NO_ANIMALS_DAMAGE,NO_BUILD,SAFE_CHESTS,NO_WORKS,SAFE_DOORS
+Cercar_Terreno: true
+Max_Gratis_Terreno: 20
+Max_Compra_Terreno: 50
+Max_Tamanho_Terreno: 100

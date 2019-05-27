@@ -1,0 +1,11 @@
+name: MyHouse
+author: JVAgamer_
+main: myhouse.MyHouse
+version: 1.0
+api-version: 1.13
+softdepend: [Vault]
+loadbefore: [Vault]
+commands:
+    myhouse:
+        aliases: [mh]
+        description: MyHouse!

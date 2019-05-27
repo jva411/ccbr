@@ -1,0 +1,8 @@
+﻿lang: pt-br
+default:
+    timeToStart: 60
+    timeToEnd: 30
+    minPlayers: 6
+    lastPlayerWin: true
+    kickOnLoss: false
+    kickOnDeath: true

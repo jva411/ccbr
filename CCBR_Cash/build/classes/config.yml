@@ -1,0 +1,51 @@
+#MinimoRequirido: 1000 - Aqui é a quantidade minima que o player tem que ter comprado de cash para conseguir usar o cash
+MinimoRequirido: 1000
+Meta:
+  estado: 0
+  metas:
+    '50000':
+      itemsParaQuemBateu: []
+      comandosParaQuemBateu: []
+      itemsParaTodos: []
+      comandosParaTodos: []
+Cashs:
+  1: 10000
+  2: 15000
+  3: 25000
+  4: 35000
+  5: 60000
+  6: 125000
+  7: 300000
+Msgs:
+  Reload: Configuraçõres recarregadas com sucesso!
+  NaN: Valor Invalido!
+  PnE: O jogador %p% nao existe!
+  noPermission: Voce nao tem permissao para isso!
+  Keyc:
+    newKey: Voce criou a key %key% com o valor de %cash%!
+    useKey: Voce usou a key %key% e recebeu %cash% de cash!
+    invalidKey: 'A key: %key% nao existe!'
+    listTop: '------- Page %page%/%total% -------'
+    listIndice: '%key%: %cash%'
+    Help:
+      use: /keyc use <key>
+      new: /keyc new <cash>
+      list: /keyc list <page>
+  Cash:
+    noCash: Voce nao tem cash suficiente para isso!
+    noMoney: Voce nao tem dinheiro suficiente para isso!
+    seuCash: '&4Voce tem &e%cash%&4 de cash!'
+    addCash: Voce deu %cash% de cash para %p%,ele agore tem %newcash%!
+    remCash: Voce tirou %cash% de cash de %p%,ele agora tem %newcash%!
+    setCash: Voce setou o cash de %p% para %cash%!
+    outroCash: O cash de %p% e de %cash%!
+  Help:
+    add: /cash add <Player> <Valor>
+    rem: /cash rem <Player> <Valor>
+    set: /cash set <Player> <Valor>
+    help: /cash help
+    outro: /cash <Player>
+  Shop:
+    erroAoCarregarLoja: '&cHouve um erro ao carregar essa loja, por favor tente novamente mais tarde!'
+    jaComprou: &cEsse item é de compra única, e você já comprou ele anteriormente!
+    minimoRequirido: &cPara poder usar o cash, você precisa ter comprado pelo menos &e&l%min% &cde cash ao todo!

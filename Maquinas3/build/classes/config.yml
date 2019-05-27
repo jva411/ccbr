@@ -1,0 +1,31 @@
+Msgs:
+  helpGive: '&f/maquinas give <maquina/combustivel/drop> <name/all> <player> <amount>'
+  helpGiveDrop: '&f/maquinas give drop <name/all> <player> <amount>'
+  helpGiveComb: '&f/maquinas give combustivel <name/all> <player> <amount>'
+  helpGiveMaq: '&f/maquinas give maquina <name/all> <player> <amount>'
+  helpNew: '&f/maquinas new <maquina/combustivel/drop> <name>'
+  helpNewDrop: '&f/maquinas new drop <name>'
+  helpNewComb: '&f/maquinas new combustivel <name> <time>'
+  helpNewMaq: '&f/maquinas new maquina <name> <displayName>'
+  helpList: '&f/maquinas list <maquina/combustivel/drop>'
+  onlyPlayers: '&4Apenas players podem fazer isso!'
+  itemInvalido: '&4Item Invalido!'
+  NaN: '&4%n% nao e um numero!'
+  playerNaoEncontrado: '&4%p% nao foi encontrado!'
+  reload: '&fTodas configuracoes foram recarregadas com sucesso!'
+  combustivelErrado: '§c§lEsse combustivel nao funciona nessa maquina!'
+  naoDono: '§cVoce nao e o dono dessa maquina!'
+  abasteceu: '§aMaquina abastecida com sucesso!'
+  jaAbastecida: '§cEssa maquina ja esta abastecida!'
+  colocouMaquina: '§aMaquina colocada com sucesso!'
+  retirouMaquina: '§aMaquina retirada com sucesso!'
+  naoRetirouMaquina: '§cMaquina nao pode ser retirada enquanto houver combustivel!'
+  moneyInsuficiente: '§cVoce nao tem dinheiro suficiente para upar essa maquina!'
+  cashInsuficiente: '§cVoce nao tem cash suficiente para upar essa maquina!'
+Maquinas:
+  Drops:
+    '1': 1
+    '2': 2
+    '3': 4
+    '4': 8
+    '5': 16

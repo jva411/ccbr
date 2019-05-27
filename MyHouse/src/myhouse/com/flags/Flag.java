@@ -1,0 +1,7 @@
+package myhouse.com.flags;
+
+public enum Flag {
+    
+    NO_PVP, NO_ENTRY, SAFE_INTERACT, NO_BUILD, NO_ANIMALS_DAMAGE, NO_PORTAL, SAFE_CHESTS, NO_WORKS, SAFE_DOORS, NO_ENDERMAN_TELEPORT;
+    
+}

@@ -1,0 +1,18 @@
+name: CCBR_Addons
+author: JVAgamer_
+main: ccbr_addons.CCBR_Addons
+version: 1.0
+api-version: 1.13
+softdepend: [Essentials, CrazyCrates, MineableSpawners]
+loadbefore: [Essentials, CrazyCrates, MineableSpawners]
+
+commands:
+    enchant:
+        description: Enchantments!
+    vender:
+        description: Vender items!
+    mutar:
+        description: Mutar a notificação do chat!
+    randomteleport:
+        aliases: [rtp]
+        description: Teleporte-se para um lugar aleatório!

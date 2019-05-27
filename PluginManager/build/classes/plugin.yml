@@ -1,0 +1,9 @@
+name: PluginManager
+author: JVAgamer_
+version: 1.0
+main: pluginmanager.PluginManager
+
+commands:
+    PluginManager:
+        aliases: [plm]
+        description: PluginManager!

@@ -1,0 +1,15 @@
+name: CCBR_Cash
+author: JVAgamer_
+version: 1.0
+main: ccbr_cash.Main
+api-version: 1.13
+softdepend: [Vault]
+loadbefore: [Vault]
+
+commands:
+    cash:
+        description: cash!
+    shop:
+        description: shop!
+    keyc:
+        description: keyc!

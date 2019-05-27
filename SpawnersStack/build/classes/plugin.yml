@@ -1,0 +1,10 @@
+name: SpawnersStack
+author: JVAgamer_
+version: 1.0
+main: spawnersstack.SpawnersStack
+api-version: 1.13
+
+commands:
+    spawnersstack:
+        aliases: [ss]
+        description: SpawnersStack!

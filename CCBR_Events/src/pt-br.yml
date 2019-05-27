@@ -1,0 +1,44 @@
+NomeNaoEncontrado: 'Não consegui encontrar o evento %event%'
+NomeJaExiste: 'Verifiquei que já existe um evento com esse nome'
+CriandoNovoEvento0: 'Você já está criando um novo evento'
+CriandoNovoEvento:
+    EventoCriado: 'O evento foi criado com sucesso!'
+    Pos1Definida: '%pos% definida como Pos1'
+    Pos2Definida: '%pos% definida como Pos2'
+    RegiaoDePerdaDefinida: 'Região de perda foi definida com sucesso'
+    RegiaoDePerdaNaoDefinida: 'Defina duas posições antes de definir uma região'
+    PeloMenosUma: 'Defina pelo menos uma região de perda'
+    Nao: 'Você não está criando nenhum evento novo'
+    '1':
+    - 'Você agora está criando o evento %event%'
+    - 'Vá para o local de espera dos players e digite /event prox'
+    '2':
+    - 'A posição %pos% foi definida como local de espera do evento'
+    - 'Vá para o local onde será a entrada do evento'
+    '3':
+    - 'A posição %pos% foi definida como a entrada do evento'
+    - 'Vá para o local onde será a saida do evento'
+    '4':
+    - 'A posição %pos% foi definida como a saida do evento'
+    - "Defina duas posições e digite '/event def' para definir uma região de perda"
+    - 'Sem nenhum item na mão, <Left-Click> Pos1 <Right-Click> Pos2'
+JogadorNaoEstaNoEvento0: 'Verifiquei que o jogador %player% não está participando do evento'
+JogadorNaoEstaNoEvento1: 'Você não está participando do evento'
+NenhumEventoOcorrendo: 'Nenhum evento está ocorrendo no momento'
+EventoCancelado0: 'Você cancelou o evento %event%'
+EventoCancelado1: 'O evento %event% foi cancelado pelo(a) %player%'
+EventoCancelado2: 'O evento foi cancelado por falta de jogadores! (min: %min%)'
+EventoEncerrado0: 'O evento %event% foi encerrado sem nenhum ganhador'
+EventoEncerrado1: 'Parabéns ao %player% que foi o vencendor do evento %event%!!!'
+EventoEmEspera: 'O evento %event% já foi iniciado e está em espera'
+EventoAcontecendo: 'O evento %event% já está acontecendo'
+EventoIniciado0: 'Você iniciou o evento %event%, ele será iniciado em breve'
+EventoIniciado1: 'O evento %event% foi iniciado e começará em %time%'
+EventoIniciado2: 'O evento começou, ninguém mais pode entrar!'
+FaltamParaComecar: 'Faltam %time% para começar o evento'
+CheckpointDefinido: 'Checkpoint definido na sua posição atual'
+Help:
+- '/event join'
+- '/event leave'
+HelpADM:
+- '/event kick'
